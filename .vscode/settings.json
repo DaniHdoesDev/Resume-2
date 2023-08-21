@@ -1,4 +1,7 @@
 {
     "powermode.enabled": true,
-    "powermode.presets": "magic"
+    "powermode.presets": "magic",
+    "powermode.explosions.customExplosions": [
+        
+    ]
 }
