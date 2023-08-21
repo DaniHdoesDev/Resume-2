@@ -2,7 +2,7 @@
     //Turn on powermode
     "powermode.enabled": true,
     //Absolute path to custom GIF
-    "powermode.presets": "magic",
+    "powermode.presets": "fireworks",
   
 
 }
