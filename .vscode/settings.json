@@ -1,7 +1,8 @@
 {
     "powermode.enabled": true,
-    "powermode.presets": "magic",
     "powermode.explosions.customExplosions": [
-        
+        "/Users/danna/Documents/VS code tings/sparkles.gif"
     ]
+
+    
 }
