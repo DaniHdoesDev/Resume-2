@@ -2,14 +2,7 @@
     //Turn on powermode
     "powermode.enabled": true,
     //Absolute path to custom GIF
-        "powermode.explosions.customExplosions": [
-        "/Users/danna/Documents/VS code tings/sparkles.gif"
-    ],
-    "powermode.presets": "fireworks",
-    "powermode.explosions.customCss": {
-        
-        "/Users/danna/Documents/VS code tings/sparkles.gif"
-    },
-    
+    "powermode.presets": "magic",
+  
 
 }
