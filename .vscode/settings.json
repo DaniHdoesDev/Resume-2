@@ -3,7 +3,7 @@
     "powermode.enabled": true,
     //Absolute path to custom GIF
     "powermode.presets": "fireworks",
-    "html-css-class-completion.enableEmmetSupport": false,
+    "html-css-class-completion.enableEmmetSupport": true,
     "html-css-class-completion.CSSLanguages": [
         
         "css",
