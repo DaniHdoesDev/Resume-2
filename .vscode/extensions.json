@@ -3,6 +3,10 @@
         "visualstudioexptteam.vscodeintellicode",
         "visualstudioexptteam.intellicode-api-usage-examples",
         "visualstudioexptteam.vscodeintellicode-completions",
-        "zignd.html-css-class-completion"
+        "zignd.html-css-class-completion",
+        "streetsidesoftware.code-spell-checker",
+        "editorconfig.editorconfig",
+        "hoovercj.vscode-power-mode",
+        "shd101wyy.markdown-preview-enhanced"
     ]
 }
