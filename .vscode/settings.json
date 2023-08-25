@@ -8,12 +8,17 @@
         
         "css",
         "sass",
-        "scss"
+        "scss", 
+        "html5"
     ],
     "emmet.showSuggestionsAsSnippets": true,
     "path-intellisense.autoSlashAfterDirectory": true,
-    "path-intellisense.autoTriggerNextSuggestion": true,
+    "path-intellisense.autoTriggerNextSuggestion": false,
     "path-intellisense.extensionOnImport": true,
+    "path-intellisense.showHiddenFiles": true,
+    "typescript.suggest.paths": false,
+    "javascript.suggest.paths": false
+    
    
   
 
