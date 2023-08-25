@@ -11,6 +11,9 @@
         "scss"
     ],
     "emmet.showSuggestionsAsSnippets": true,
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "path-intellisense.autoTriggerNextSuggestion": true,
+    "path-intellisense.extensionOnImport": true,
    
   
 
